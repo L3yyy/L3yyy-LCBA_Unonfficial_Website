@@ -1,0 +1,31 @@
+/*---------------------------------------
+  ABOUT PAGE — about_style.css
+  All shared component styles (founder,
+  pvm-card, core values, objectives,
+  tvlhe, gallery, video) live in
+  subpage_style.css. This file only
+  contains about-page-specific overrides.
+
+  NOTE: about.html must link subpage_style.css
+  BEFORE this file.
+-----------------------------------------*/
+
+/*
+  All about-page styles are now defined in
+  subpage_style.css under the following classes:
+    - .about-page-hero
+    - .about-hero-eyebrow / heading / highlight / sub
+    - .about-pill-link
+    - .about-hero-wave
+    - .about-section-label / .about-section-number
+    - .about-bg-alt
+    - .founder-* (shared with history.html)
+    - .pvm-card / .pvm-card-vision / .pvm-card-mission
+    - .core-value-* (shared)
+    - .objectives-list (shared)
+    - .tvlhe-* (shared)
+    - .gallery-* (shared)
+    - .video-card-* (shared)
+
+  Add page-specific overrides here only if needed.
+*/
